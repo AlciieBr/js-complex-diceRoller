@@ -43,7 +43,7 @@ The dice roll follows as follows:
 
 + "!" => Ordering; If this argument is added, the result will be shown in descending order instead of the order in which the dice were rolled;
 
-##Português(BR)
+## Português(BR)
 
 Este é um código para rolagem complexa de dados, ele ainda está em processo de correção de alguns bugs e melhorias no código.
 

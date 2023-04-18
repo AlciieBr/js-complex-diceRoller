@@ -4,13 +4,14 @@ Nowadays these commands can do the roll, but it's my second project in JS and th
 
 # My next steps here are:
 
-[x] Resolve infinity loop with "1d1exp1";
-[x] Resolve crashes with "1d0" and "0d1";
-[ ] Add somehow to invert the ordering;
-[ ] Improve the code/regex to not be "order sensitive" and understand "5d6!kh3" and "5d6kh3!" as the same thing;
-[ ] Clean and improve the code to be smaller and not harm the eyes;
+- [x] Resolve infinity loop with "1d1exp1";
+- [x] Resolve crashes with "1d0" and "0d1";
+- [ ] Add somehow to invert the ordering;
+- [ ] Improve the code/regex to not be "order sensitive" and understand "5d6!kh3" and "5d6kh3!" as the same thing;
+- [ ] Clean and improve the code to be smaller and not harm the eyes;
 
-With all above steps completed, turn this into a NPM library;
+
+After all above steps completed, turn this into a NPM library;
 
 
 # How it works
